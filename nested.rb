@@ -90,7 +90,8 @@ def adding_matz
             }
          }
     programmer_hash_two
-    programmer_hash_two.merge(programmer_hash
+    programmer_hash_two.merge(programmer_hash)
+    
 end
 
 def changing_alan
